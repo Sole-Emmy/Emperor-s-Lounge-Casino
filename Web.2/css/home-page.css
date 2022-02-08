@@ -1,0 +1,1344 @@
+/* screen - contacts */
+
+.contacts {
+  background-color: var(--black);
+  border: 4px solid var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1265px;
+  min-width: 1846px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.contacts .group-14-l7G6Sx {
+  background-color: transparent;
+  height: 1265px;
+  position: absolute;
+  right: -10px;
+  top: calc(50.00% - 632px);
+  width: 1856px;
+}
+
+.contacts .rectangle-14-NgIJIN {
+  background-color: transparent;
+  height: 1265px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 10px;
+  top: calc(50.00% - 632px);
+  width: 1104px;
+}
+
+.contacts .whatasspp-35677889512-NgIJIN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% - 290px);
+  width: 646px;
+}
+
+.contacts .span0-9TFLWb {
+  text-decoration: underline;
+}
+
+.contacts .span1-9TFLWb {
+}
+
+.contacts .gmail-kingsloungecasinogmailcom-NgIJIN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% - 148px);
+  width: 887px;
+}
+
+.contacts .span0-yynmWP {
+  text-decoration: underline;
+}
+
+.contacts .span1-yynmWP {
+}
+
+.contacts .facebook-kings-lounge-casino-malta-NgIJIN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 8px);
+  width: 906px;
+}
+
+.contacts .span0-peudH8 {
+  text-decoration: underline;
+}
+
+.contacts .span1-peudH8 {
+}
+
+.contacts .instagram-kings_lounge_casino-malta-NgIJIN {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% + 176px);
+  width: 923px;
+}
+
+.contacts .span0-bz04Y8 {
+  text-decoration: underline;
+}
+
+.contacts .span1-bz04Y8 { 
+
+}
+
+.contacts .contacts-us-NgIJIN {
+  background-color: transparent;
+  color: #f5dd03d1;
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 282px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 575px;
+}
+
+.contacts .icomoon-freemenu3-l7G6Sx {
+  background-color: transparent;
+  cursor: pointer;
+  height: 51px;
+  left: 45px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 37px;
+  width: 79px;
+}
+
+.contacts .cifacebook-l7G6Sx {
+  background-color: var(--black);
+  bottom: 44px;
+  cursor: pointer;
+  height: 48px;
+  left: 325px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 84px;
+}
+
+.contacts .group-JaICha {
+  background-color: transparent;
+  bottom: 4px;
+  height: 40px;
+  position: absolute;
+  right: 7px;
+  width: 70px;
+}
+
+.contacts .logoswhatsapp-l7G6Sx {
+  background-color: transparent;
+  bottom: 38px;
+  height: 49px;
+  left: 217px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 81px;
+}
+
+.contacts .vector-O3bVHO {
+  background-color: transparent;
+  bottom: 4px;
+  cursor: pointer;
+  height: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 5px;
+  width: 70px;
+}
+
+.contacts .vector-xXZ6ay {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  width: 82px;
+}
+
+.contacts .phinstagram-logo-light-l7G6Sx {
+  background-color: transparent;
+  bottom: 42px;
+  cursor: pointer;
+  height: 50px;
+  left: 113px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 78px;
+}
+
+.contacts .vector-c7aMYx {
+  background-color: transparent;
+  bottom: 6px;
+  height: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 9px;
+  width: 60px;
+}
+
+.contacts .logosgoogle-gmail-l7G6Sx {
+  background-color: transparent;
+  bottom: 47px;
+  cursor: pointer;
+  height: 40px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: fixed;
+  width: 58px;
+}
+
+.contacts .vector-YzIdkN {
+  background-color: transparent;
+  height: 75.00%;
+  left: -0.27%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.08%;
+  width: 23.28%;
+}
+
+.contacts .vector-9VvDBb {
+  background-color: transparent;
+  height: 75.00%;
+  left: 77.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25.08%;
+  width: 23.28%;
+}
+
+.contacts .vector-tzax8t {
+  background-color: transparent;
+  height: 67.50%;
+  left: 20.79%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8.48%;
+  width: 58.62%;
+}
+
+.contacts .vector-Kqp7O9 {
+  background-color: transparent;
+  height: 48.75%;
+  left: 77.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.25%;
+  width: 23.28%;
+}
+
+.contacts .vector-keTAGM {
+  background-color: transparent;
+  height: 48.75%;
+  left: -0.27%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -0.25%;
+  width: 23.28%;
+}
+/* screen - games-page */
+
+.games-page {
+  background-color: transparent;
+  border: 7px solid var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1114px;
+  min-width: 1703px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.games-page .games-page-85emTy {
+  background-color: transparent;
+  height: 1114px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1703px;
+}
+
+.games-page .bingo-1-85emTy {
+  background-color: transparent;
+  height: 356px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  right: 55px;
+  top: calc(50.00% - 350px);
+  width: 430px;
+}
+
+.games-page .casino-2-1-85emTy {
+  background-color: transparent;
+  bottom: 137px;
+  height: 300px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  right: 55px;
+  width: 430px;
+}
+
+.games-page .group-5-85emTy {
+  background-color: transparent;
+  height: 76px;
+  position: fixed;
+  right: 118px;
+  top: calc(50.00% + 17px);
+  width: 270px;
+}
+
+.games-page .rectangle-4-UbWJqV {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  height: 76px;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  right: 2px;
+  top: calc(50.00% - 38px);
+  width: 268px;
+}
+
+.games-page .play-now-UbWJqV {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  height: auto;
+  left: 70px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 157px;
+}
+
+.games-page .group-11-85emTy {
+  background-color: transparent;
+  bottom: 36px;
+  height: 76px;
+  position: fixed;
+  right: 118px;
+  width: 270px;
+}
+
+.games-page .rectangle-4-GxriYs {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  bottom: 0px;
+  height: 76px;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  right: 2px;
+  width: 268px;
+}
+
+.games-page .play-now-GxriYs {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  bottom: 24px;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 58px;
+  text-align: center;
+  width: 157px;
+}
+
+.games-page .baccarat-1-85emTy {
+  background-color: transparent;
+  height: 358px;
+  left: calc(50.00% - 198px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  top: calc(50.00% - 350px);
+  width: 430px;
+}
+
+.games-page .playing-online-slots-1-85emTy {
+  background-color: transparent;
+  bottom: 137px;
+  height: 300px;
+  left: calc(50.00% - 198px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  width: 430px;
+}
+
+.games-page .group-12-85emTy {
+  background-color: transparent;
+  bottom: 37px;
+  height: 76px;
+  left: calc(50.00% - 122px);
+  position: fixed;
+  width: 270px;
+}
+
+.games-page .rectangle-4-pxA9hh {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  bottom: 0px;
+  height: 76px;
+  left: calc(50.00% - 135px);
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  width: 268px;
+}
+
+.games-page .play-now-pxA9hh {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  bottom: 24px;
+  height: auto;
+  left: calc(50.00% - 80px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  width: 157px;
+}
+
+.games-page .group-9-85emTy {
+  background-color: transparent;
+  height: 76px;
+  left: calc(50.00% - 124px);
+  position: fixed;
+  top: calc(50.00% + 17px);
+  width: 270px;
+}
+
+.games-page .rectangle-4-xaRWtx {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  height: 76px;
+  left: calc(50.00% - 135px);
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  top: calc(50.00% - 38px);
+  width: 268px;
+}
+
+.games-page .play-now-xaRWtx {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  height: auto;
+  left: calc(50.00% - 80px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: calc(50.00% - 17px);
+  width: 157px;
+}
+
+.games-page .solitaire-1-85emTy {
+  background-color: transparent;
+  height: 358px;
+  left: 66px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  top: 207px;
+  width: 430px;
+}
+
+.games-page .online-lottery-1-1-85emTy {
+  background-color: transparent;
+  bottom: 128px;
+  height: 288px;
+  left: 66px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: fixed;
+  width: 430px;
+}
+
+.games-page .group-13-85emTy {
+  background-color: transparent;
+  bottom: 37px;
+  height: 76px;
+  left: 142px;
+  position: fixed;
+  width: 270px;
+}
+
+.games-page .rectangle-4-BS1F0R {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  bottom: 0px;
+  height: 76px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  width: 268px;
+}
+
+.games-page .play-now-BS1F0R {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 157px;
+}
+
+.games-page .group-10-85emTy {
+  background-color: transparent;
+  height: 76px;
+  left: 140px;
+  position: fixed;
+  top: 574px;
+  width: 270px;
+}
+
+.games-page .rectangle-4-EicA8k {
+  background-color: var(--cyan--aqua);
+  border-radius: 50px;
+  height: 76px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 0.2;
+  position: absolute;
+  top: 0px;
+  width: 268px;
+}
+
+.games-page .play-now-EicA8k {
+  -webkit-text-stroke: 1px var(--orange-red);
+  background-color: transparent;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 157px;
+}
+
+.games-page .available-games-85emTy {
+  -webkit-text-stroke: 1px #ff370c;
+  background-color: transparent;
+  color: #ff4b4b;
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-l);
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  left: calc(50.00% - 352px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  text-align: center;
+  top: calc(50.00% - 517px);
+  width: 786px;
+}
+/* screen - home-page */
+
+.home-page {
+  background-color: transparent;
+  border: 5px solid var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1075px;
+  min-width: 1718px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.home-page .home-page-xVxyAW {
+  background-color: transparent;
+  height: 1075px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1718px;
+}
+
+.home-page .home-xVxyAW {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-xxxxs);
+  font-style: italic;
+  font-weight: 400;
+  height: calc(100.00% - 1051px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 148px;
+  text-align: center;
+  top: 74px;
+  width: 89px;
+}
+
+.home-page .info-xVxyAW {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: 23px;
+  font-style: italic;
+  font-weight: 400;
+  height: calc(100.00% - 1051px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 81px;
+  text-align: center;
+  top: 74px;
+  width: 67px;
+}
+
+.home-page .join-xVxyAW {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-xxxxs);
+  font-style: italic;
+  font-weight: 400;
+  height: calc(100.00% - 1051px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  top: 72px;
+  width: 81px;
+}
+
+.home-page .emperors-lounge-casino-xVxyAW {
+  background-color: transparent;
+  height: 28px;
+  left: calc(50.00% - 264px);
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 528px;
+}
+/* screen - info-page */
+
+.info-page {
+  background-color: #070707;
+  border: 3px solid var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1133px;
+  min-width: 1718px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.info-page .rectangle-1-kBsUN5 {
+  background-color: transparent;
+  height: calc(100.00% + 1px);
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 861px;
+}
+
+.info-page .rectangle-2-kBsUN5 {
+  background-color: transparent;
+  height: calc(100.00% - 560px);
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  right: 6px;
+  top: 560px;
+  width: 876px;
+}
+
+.info-page .rectangle-3-kBsUN5 {
+  background-color: #c4c4c4;
+  height: 1px;
+  left: 922px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.info-page .what-are-you-waiting-kBsUN5 {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-lucida_bright-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 617px);
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  top: 1px;
+  width: 851px;
+}
+
+.info-page .span0-W7xejo {
+  color: #5ef538f7;
+  font-style: normal;
+}
+
+.info-page .span1-W7xejo {
+  color: var(--golden-fizz);
+  font-style: normal;
+}
+
+.info-page .icomoon-freemenu3-kBsUN5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 1082px);
+  left: 20px;
+  mix-blend-mode: normal;
+  position: fixed;
+  top: 20px;
+  width: 79px;
+}
+/* screen - menu-options */
+
+.menu-options {
+  background-color: #ffe500bd;
+  border: 1px solid #03f5e6;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1151px;
+  min-width: 261px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+#overlay-menu-options {
+  background-color: #ffe500bd;
+}
+
+.overlay .menu-options {
+  background-color: #00000000;
+}
+
+#overlay-menu-options .menu-options {
+  left: 24.999826431274414px;
+  top: 23.999801635742188px;
+}
+
+#overlay-menu-options .container-center-horizontal {
+  justify-content: normal;
+}
+
+.menu-options .home-QvTqnw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  width: 119px;
+}
+
+.menu-options .info-QvTqnw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 76px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 296px;
+  width: 94px;
+}
+
+.menu-options .join-QvTqnw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 71px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 488px;
+  width: 105px;
+}
+
+.menu-options .contacts-QvTqnw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 44px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 715px;
+  width: 173px;
+}
+/* screen - sign-up */
+
+.sign-up {
+  background-color: transparent;
+  border: 6px solid var(--black);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1113px;
+  min-width: 1782px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.sign-up .sign-up-rEJZuq {
+  background-color: transparent;
+  height: 1113px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1782px;
+}
+
+.sign-up .rectangle-5-rEJZuq {
+  background-color: transparent;
+  height: 1309px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 556px);
+  width: 838px;
+}
+
+.sign-up .sign-up-tyt3hv {
+  background-color: transparent;
+  color: #ff370c;
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 401px;
+  text-align: center;
+  text-decoration: underline;
+  top: 36px;
+  width: auto;
+}
+
+.sign-up .name-rEJZuq {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-xs);
+  font-style: italic;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 681px;
+  text-align: center;
+  top: 214px;
+  width: 249px;
+}
+
+.sign-up .surname-rEJZuq {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-lucida_bright-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 640px;
+  text-align: center;
+  top: 308px;
+  width: 286px;
+}
+
+.sign-up .span0-5rup2M {
+  font-style: normal;
+}
+
+.sign-up .span1-5rup2M {
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+}
+
+.sign-up .e-mail-rEJZuq {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 682px;
+  text-align: center;
+  top: 386px;
+  width: 251px;
+}
+
+.sign-up .mobile-no-rEJZuq {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 598px;
+  text-align: center;
+  top: 458px;
+  width: 346px;
+}
+
+.sign-up .comments-rEJZuq {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 598px;
+  text-align: center;
+  top: 533px;
+  width: 346px;
+}
+
+.sign-up .rectangle-12-rEJZuq {
+  background-color: var(--white);
+  height: 310px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 62px;
+  top: 540px;
+  width: 631px;
+}
+
+.sign-up .group-9-rEJZuq {
+  background-color: transparent;
+  height: 53px;
+  position: fixed;
+  right: 60px;
+  top: 213px;
+  width: 635px;
+}
+
+.sign-up .rectangle-9-BSY4Vp {
+  background-color: var(--white);
+  height: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 631px;
+}
+
+.sign-up .text-fields-BSY4Vp {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  text-align: center;
+  top: 0px;
+  width: 633px;
+}
+
+.sign-up .group-10-rEJZuq {
+  background-color: transparent;
+  height: 53px;
+  position: fixed;
+  right: 60px;
+  top: 298px;
+  width: 635px;
+}
+
+.sign-up .rectangle-9-FUNtGU {
+  background-color: var(--white);
+  height: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 631px;
+}
+
+.sign-up .text-fields-FUNtGU {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  text-align: center;
+  top: 0px;
+  width: 633px;
+}
+
+.sign-up .group-12-rEJZuq {
+  background-color: transparent;
+  height: 53px;
+  position: fixed;
+  right: 60px;
+  top: 459px;
+  width: 635px;
+}
+
+.sign-up .rectangle-9-aXIm6Z {
+  background-color: var(--white);
+  height: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 631px;
+}
+
+.sign-up .text-fields-aXIm6Z {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  text-align: center;
+  top: 0px;
+  width: 633px;
+}
+
+.sign-up .group-11-rEJZuq {
+  background-color: transparent;
+  height: 53px;
+  position: fixed;
+  right: 60px;
+  top: 379px;
+  width: 635px;
+}
+
+.sign-up .rectangle-9-0I7XJa {
+  background-color: var(--white);
+  height: 52px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  width: 631px;
+}
+
+.sign-up .text-fields-0I7XJa {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 2px;
+  text-align: center;
+  top: 0px;
+  width: 633px;
+}
+
+.sign-up .nice-experience-great-job-rEJZuq {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 61px;
+  text-align: center;
+  top: 540px;
+  width: 633px;
+}
+
+.sign-up .rectangle-13-rEJZuq {
+  background-color: #f5dd03d1;
+  border: 1px solid #fc0000;
+  border-radius: 50px;
+  height: 68px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 194px;
+  top: 878px;
+  width: 363px;
+}
+
+.sign-up .join-rEJZuq {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 276px;
+  text-align: center;
+  top: 898px;
+  width: 205px;
+}
+
+.sign-up .cifacebook-rEJZuq {
+  background-color: transparent;
+  bottom: 11px;
+  cursor: pointer;
+  height: 48px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 119px;
+  width: 84px;
+}
+
+.sign-up .logoswhatsapp-rEJZuq {
+  background-color: transparent;
+  bottom: 6px;
+  height: 49px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 229px;
+  width: 81px;
+}
+
+.sign-up .vector-p8iGX8 {
+  background-color: transparent;
+  bottom: 4px;
+  cursor: pointer;
+  height: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 5px;
+  width: 70px;
+}
+
+.sign-up .vector-3fWge8 {
+  background-color: transparent;
+  bottom: 1px;
+  cursor: pointer;
+  height: 49px;
+  mix-blend-mode: normal;
+  position: absolute;
+  right: 0px;
+  width: 82px;
+}
+
+.sign-up .phinstagram-logo-light-rEJZuq {
+  background-color: transparent;
+  bottom: 9px;
+  cursor: pointer;
+  height: 50px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 336px;
+  width: 78px;
+}
+
+.sign-up .logosgoogle-gmail-rEJZuq {
+  background-color: transparent;
+  bottom: 15px;
+  cursor: pointer;
+  height: 40px;
+  mix-blend-mode: normal;
+  position: fixed;
+  right: 439px;
+  width: 58px;
+}
+@media screen and (max-width: 1702px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.games-page { 
+    display: none;
+   }
+  .screen.contacts { 
+    display: none;
+   }
+  .screen.info-page { 
+    display: none;
+   }
+  .screen.sign-up { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1703px) and (max-width: 1717px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.menu-options { 
+    display: none;
+   }
+  .screen.contacts { 
+    display: none;
+   }
+  .screen.info-page { 
+    display: none;
+   }
+  .screen.sign-up { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1718px) and (max-width: 1717px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.games-page { 
+    display: none;
+   }
+  .screen.menu-options { 
+    display: none;
+   }
+  .screen.contacts { 
+    display: none;
+   }
+  .screen.info-page { 
+    display: none;
+   }
+  .screen.sign-up { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1718px) and (max-width: 1781px) {
+  .screen.games-page { 
+    display: none;
+   }
+  .screen.menu-options { 
+    display: none;
+   }
+  .screen.contacts { 
+    display: none;
+   }
+  .screen.sign-up { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1782px) and (max-width: 1845px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.games-page { 
+    display: none;
+   }
+  .screen.menu-options { 
+    display: none;
+   }
+  .screen.contacts { 
+    display: none;
+   }
+  .screen.info-page { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1846px) {
+  .screen.home-page { 
+    display: none;
+   }
+  .screen.games-page { 
+    display: none;
+   }
+  .screen.menu-options { 
+    display: none;
+   }
+  .screen.info-page { 
+    display: none;
+   }
+  .screen.sign-up { 
+    display: none;
+   }
+}

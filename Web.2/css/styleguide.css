@@ -1,0 +1,51 @@
+:root { 
+  --black: #000000;
+  --cyan--aqua: #27f3f3;
+  --golden-fizz: #f5ed38f7;
+  --orange-red: #fd1b1b;
+  --red: #f10000;
+  --white: #ffffff;
+ 
+  --font-size-l: 75px;
+  --font-size-m: 63px;
+  --font-size-s: 55px;
+  --font-size-xs: 45px;
+  --font-size-xxs: 35px;
+  --font-size-xxxs: 25px;
+  --font-size-xxxxs: 21px;
+ 
+  --font-family-lucida_bright-demibold: "Lucida Bright-Demibold", Helvetica;
+  --font-family-lucida_bright-demibolditalic: "Lucida Bright-DemiboldItalic", Helvetica;
+  --font-family-lucida_bright-regular: "Lucida Bright-Regular", Helvetica;
+}
+.lucidabright-regular-normal-golden-fizz-45px {
+  color: var(--golden-fizz);
+  font-family: var(--font-family-lucida_bright-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lucidabright-demibolditalic-normal-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-lucida_bright-demibolditalic);
+  font-size: var(--font-size-xxs);
+  font-style: italic;
+  font-weight: 400;
+}
+
+.lucidabright-demi-normal-red-25px {
+  color: var(--red);
+  font-family: var(--font-family-lucida_bright-demibold);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lucidabright-demi-normal-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-lucida_bright-demibold);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
